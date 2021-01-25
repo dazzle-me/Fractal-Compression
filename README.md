@@ -8,8 +8,8 @@ See more about Fractal compression [here](https://en.wikipedia.org/wiki/Fractal_
 |:--------------|:----------|
 |![Original image](test_files/baboon.png)|None (original image) |
 |![Baboon_1](images/baboon_iteration_1.png) | 1 |
-|![Baboon_2](images/baboon_iteration_2.png) | 3 |
-|![Baboon_3](images/baboon_iteration_3.png) | 2 |
+|![Baboon_2](images/baboon_iteration_2.png) | 2 |
+|![Baboon_3](images/baboon_iteration_3.png) | 3 |
 |![Baboon_4](images/baboon_iteration_4.png) | 4 |
 |![Baboon_20](images/baboon_iteration_20.png) | 20 |
 
