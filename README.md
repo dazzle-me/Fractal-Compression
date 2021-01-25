@@ -4,6 +4,6 @@ Fractal compression is the algorithm of lossy compression that uses properties o
 
 See more about Fractal compression [here](https://en.wikipedia.org/wiki/Fractal_compression).
 
-|Original image | Image evolution, (1, 2, 3, 4, 20) iterations |
-|:--------------|:----------------|
-|![Original image](test_files/baboon.bmp)| ![Image evolution, (1, 2, 3, 4, 20) iterations](images/baboon_evolution.png)
+|Original image | Image size (bytes) | Compression ratio | Iteration |
+|:--------------|:-------------------|:------------------|:----------|
+|![Original image](test_files/baboon.bmp)| 720,054 | 1 : 1| None |
